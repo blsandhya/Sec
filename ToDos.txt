@@ -1,0 +1,7 @@
+Emails for all the projects'
+Hosting server details for all projects
+Login credentials for the DB servers
+Login credentials for each of the Projects for all the roles
+Documentation of all the projects
+Plugin details - License per site/multisite
+
