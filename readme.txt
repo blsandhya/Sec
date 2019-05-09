@@ -35,7 +35,7 @@ Notepad++ support:
 	https://notepad-plus-plus.org/community/
 
 
-Author:Sandhya
+Author:
 *******
 
 Don Ho <don.h@free.fr>
